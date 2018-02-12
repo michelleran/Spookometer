@@ -1,7 +1,5 @@
 # Spookometer
 
-![](http://piggywheelapps.com/assets/images/spookometer/spookometer4.PNG)
-
 Ghosts are everywhere… You just don’t know it.
 
 Expose them with Spookometer! They might be invisible at first, but walk around and let the vibrations guide you towards their location. Once you’re close enough, they’ll appear!
